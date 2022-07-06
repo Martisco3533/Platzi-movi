@@ -1,0 +1,19 @@
+{
+  "name": "platzi-movi",
+  "version": "1.0.0",
+  "description": "Curso Práctico de Consumo de API REST con JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martisco3533/Platzi-movi.git"
+  },
+  "author": "Martin Tiscordio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Martisco3533/Platzi-movi/issues"
+  },
+  "homepage": "https://github.com/Martisco3533/Platzi-movi#readme"
+}
