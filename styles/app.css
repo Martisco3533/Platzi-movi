@@ -362,6 +362,7 @@ footer {
 }
 footer div a {
   color: var(--purple-light-1);
+  text-decoration: none;
 }
 
 /* Navigation */
