@@ -74,6 +74,10 @@ h3 {
   font-size: 16px;
 }
 
+a {
+  text-decoration: none;
+}
+
 input {
   background-color: var(--purple-light-2);
   color: var(--purple-medium-2);
@@ -362,7 +366,6 @@ footer {
 }
 footer div a {
   color: var(--purple-light-1);
-  text-decoration-line: none;
 }
 
 /* Navigation */
