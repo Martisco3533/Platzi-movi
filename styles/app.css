@@ -360,7 +360,9 @@ footer {
   justify-content: center;
   align-items: center;
 }
-
+Footer div a {
+  color: var(--purple-light-2);
+}
 
 /* Navigation */
 .inactive {
